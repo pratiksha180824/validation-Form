@@ -1,0 +1,44 @@
+body {
+    
+
+	background-color: #C071F9;
+	padding: 0 10px;
+
+}
+
+
+    .container
+{
+	max-width: 500px;
+	width: 100%;
+	background-color: white;
+	margin: 20px auto;
+	padding: 30px;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+
+}
+.container .title
+{
+	font-size: 24px;
+	font-weight: 700;
+	margin-bottom: 25px;
+	color: #D071F9;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+button {
+    width:100%;
+	padding: 8px 10px;
+	font-size: 15px;
+	border: 0;
+	background: #D071F9;
+	color: white;
+	cursor: pointer;
+	border-radius: 3px;
+}
